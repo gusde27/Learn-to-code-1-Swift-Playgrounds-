@@ -1,0 +1,21 @@
+func collectAndSwitch(){
+    collectGem()
+    moveForward()
+    toggleSwitch()
+}
+
+moveForward()
+CollectandSwitch()
+moveForward()
+turnLeft()
+moveForward()
+CollectandSwitch()
+moveForward()
+moveForward()
+turnLeft()
+moveForward()
+CollectandSwitch()
+moveForward()
+turnLeft()
+moveForward()
+CollectandSwitch()
