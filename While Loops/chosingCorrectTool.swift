@@ -9,3 +9,5 @@ func turnAndCollectGem() {
 while !isBlocked {
     turnAndCollectGem()
 }
+
+//cek cek
