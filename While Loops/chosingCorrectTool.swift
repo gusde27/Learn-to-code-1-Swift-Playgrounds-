@@ -10,4 +10,4 @@ while !isBlocked {
     turnAndCollectGem()
 }
 
-//cek cek
+//checking my code
