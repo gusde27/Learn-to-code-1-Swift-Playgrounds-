@@ -4,3 +4,5 @@ while !isBlocked {
         toggleSwitch()
     }
 }
+
+//nice
